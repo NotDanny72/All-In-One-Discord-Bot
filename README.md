@@ -1,3 +1,5 @@
+In my server (https://discord.gg/9tT5KnzjRS) we used https://bot-hosting.net to host our bot (not sponsored)
+
 # Discord Bot
 
 A slash-command Discord bot with fun, utility, moderation, economy, levels, verification, modmail, auto-moderation and anti-raid features (75+ commands).
@@ -177,3 +179,5 @@ Members spend coins (from `/daily`, `/work`, `/gamble`, trivia…) on things adm
 - With the prefix: `-buy "Birthday Cake" 2`, `-shopadmin add "Birthday Cake" 100 stock=5 description="Yummy"`.
 
 Data (coins, XP, warnings, config, modmail threads) is stored in `data.json`, created automatically.
+
+
